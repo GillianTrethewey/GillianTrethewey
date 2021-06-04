@@ -4,7 +4,7 @@
 
 ### Thanks for visiting! &nbsp; 
 
-I am an engineer and teacher transitioning to Front End Web Development. I love programming, quilting, and coaching police officers to pass their testing and interviews.
+I am an engineer and teacher transitioning to Front End Web Development. I love programming, quilting, and teaching police officers to pass their testing and interviews.
 
 I've been coding since 2014.  This has included making membership e-commerce websites for clients, creating and maintaining my own teaching website at https://cognitiveresults.com, as well as working for another developer doing CBT along with junior retainer work with clients. 
 
