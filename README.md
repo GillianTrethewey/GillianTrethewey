@@ -22,8 +22,8 @@ I'm levelling up my skills to include PHP and JS, React, and Python. I have comp
 - :book: I'm currently reading: _Big Dreams Daily Joys_ by Elise Cripe
 - ⚡ Fun fact: I have two degrees - one in Civil Engineering and the second in Education. I have programmed in Fortran on a PR1ME mainframe and was a night operator.
 - 👨🏻‍💻 See also: 
--- https://codesandbox.io/u/GillianTrethewey
--- https://codepen.io/starbucksamore
+- - https://codesandbox.io/u/GillianTrethewey
+- - https://codepen.io/starbucksamore
 <br>
 
 📈 **My GitHub Stats:**
