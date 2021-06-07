@@ -18,9 +18,9 @@ I'm levelling up my skills to include PHP and JS, React, and Python. I have comp
 - 🔭 I'm currently in the midst of Round 3 of 100 Days of Code.
 - 👨🏻‍💻 In the Round 3 repo, you can view the courses I've completed and what I'm specifically working on.
 - 📫 How to reach me: cognitiveresults@rogers.com
-- - 😄 Pronouns: she/her
-- - :book: I'm currently reading: _Big Dreams Daily Joys_ by Elise Cripe
-- - ⚡ Fun fact: I have two degrees - one in Civil Engineering and the second in Education. I have programmed in Fortran on a PR1ME mainframe and was a night operator.
+- 😄 Pronouns: she/her
+- :book: I'm currently reading: _Big Dreams Daily Joys_ by Elise Cripe
+- ⚡ Fun fact: I have two degrees - one in Civil Engineering and the second in Education. I have programmed in Fortran on a PR1ME mainframe and was a night operator.
 <br>
 
 📈 **My GitHub Stats:**
