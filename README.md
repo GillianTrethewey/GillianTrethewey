@@ -14,7 +14,7 @@ I'm levelling up my skills to include PHP, JS, React, and Python. I have complet
 
 **Snapshot:**
 
-- 👨🏻‍💻 I'm currently learning: PHP + JS + React + Python
+- 👨🏻‍💻 I'm currently learning: PHP + JS + React + Python + Ruby
 - 🔭 I'm currently in the midst of Round 3 of 100 Days of Code.
 - 👨🏻‍💻 In the Round 3 repo, you can view the courses I've completed and what I'm specifically working on.
 - 📫 How to reach me: cognitiveresults@rogers.com
