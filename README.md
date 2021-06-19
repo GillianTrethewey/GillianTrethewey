@@ -14,12 +14,12 @@ I'm levelling up my skills to include PHP, JS, React, Ruby, and Python. I have c
 
 **Snapshot:**
 
-- 👨🏻‍💻 I'm currently learning: PHP + JS + React + Python + Ruby
+- 👨🏻‍💻 I'm currently learning: PHP + JS + React + Python + Ruby + SQL
 - 🔭 I'm currently in the midst of Round 3 of 100 Days of Code.
 - 👨🏻‍💻 In the Round 3 repo, you can view the courses I've completed and what I'm specifically working on.
 - 📫 How to reach me: cognitiveresults@rogers.com
 - 😄 Pronouns: she/her
-- :book: I'm currently reading: _Big Dreams Daily Joys_ by Elise Cripe
+- :book: I'm currently reading: _Better Than Before_ by Gretchen Rubin (habits)
 - ⚡ Fun fact: I have two degrees - one in Civil Engineering and the second in Education. I programmed in Fortran in my youth.
 - 👨🏻‍💻 See also: 
 - - https://codesandbox.io/u/GillianTrethewey
