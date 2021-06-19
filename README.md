@@ -6,7 +6,7 @@
 
 I am a self-taught software engineer formally trained as a Civil engineer and teacher. I love programming, quilting, and my side gig is teaching police officers to pass their mathematics and language testing and interviews. I know HTML, CSS, some Python, some Ruby, and some JS, PHP, and SQL. Working on projects to develop expertise at deeper levels.
 
-I've been coding on the web since 2014.  This has included making membership e-commerce websites for clients, creating and maintaining my own teaching website at https://cognitiveresults.com, as well as working for another developer doing CBT along with junior retainer work with clients. 
+I've been coding on the web since 2014.  This has included making membership e-commerce websites for clients, creating and maintaining my own teaching website at https://cognitiveresults.com, as well as working for another developer doing CBT along with retainer work with clients. 
 
 I'm levelling up my skills to include PHP, JS, React, Ruby, SQL, PHP, and Python. I have completed COMP200 and Java at Athabasca University. I'm working through several courses daily to level up the rest of the skills. 
   
