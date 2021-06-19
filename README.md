@@ -8,7 +8,7 @@ I am a self-taught software engineer formally trained as a Civil engineer and te
 
 I've been coding on the web since 2014.  This has included making membership e-commerce websites for clients, creating and maintaining my own teaching website at https://cognitiveresults.com, as well as working for another developer doing CBT along with retainer work with clients. 
 
-I'm levelling up my skills to include PHP, JS, React, Ruby, SQL, PHP, and Python. I have completed COMP200 and Java at Athabasca University. I'm working through several courses daily to level up the rest of the skills. 
+I'm levelling up my skills to include PHP, JS, React, Ruby, SQL, PHP, and Python. I have completed COMP200 and Java at Athabasca University. I code daily and I'm serious about learning the skills I need to land a full-time job doing development.
   
 <br>
 
