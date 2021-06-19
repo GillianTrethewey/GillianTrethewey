@@ -23,7 +23,7 @@ I'm levelling up my skills to include PHP, JS, React, Ruby, SQL, PHP, and Python
 - 😄 Pronouns: she/her
 - :book: I'm currently reading: _Better Than Before_ by Gretchen Rubin (habits)
 - ⚡ Fun fact: I have two degrees - one in Civil Engineering and the second in Education. I programmed in Fortran in my youth.
-- 👨🏻‍💻 See also: 
+- 👨🏻‍💻 See also (for course exercises): 
 - - https://codesandbox.io/u/GillianTrethewey
 - - https://codepen.io/starbucksamore
 <br>
