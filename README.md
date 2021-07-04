@@ -13,6 +13,7 @@ I'm levelling up my skills to include PHP, JS, React, Ruby, SQL, PHP, and Python
 <br>
 
 **Snapshot:**
+- 😄 July course goals: JS, React, Responsive, statis site.
 - 😄 I code every day.
 - 👨🏻‍💻 I'm currently learning: PHP + JS + React + Python + Ruby + SQL 
 - 👨🏻‍💻 I'm proficient at HTML5, CSS3, Flexbox, Grid, SASS, yarn, gulp, node.js, WordPress, and Git version control. 
