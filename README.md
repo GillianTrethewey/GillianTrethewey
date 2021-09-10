@@ -4,7 +4,7 @@
 
 ### Thanks for visiting! &nbsp; 
 
-I am a self-taught software engineer formally trained as a Civil engineer and teacher. I'm starting a Master's in Data Science in October with Eastern U. To prepare I'm learning Python, and familiarlizing myself with: numpy, colab, mathplotlib, seaborn, and pandas. If there's time, then R, Excel, SQL, and cleaning up my older courses in JS, React, etc.
+I am a self-taught software engineer formally trained as a Civil engineer and teacher. I'm starting a Master's in Data Science in October with Eastern U. Concurrently, I'm doing Kickstart Coding Bootcamp to get more complex projects into my portfolio. To prepare for my Masters, I'm learning Python, and familiarlizing myself with: numpy, colab, mathplotlib, seaborn, and pandas. If there's time, then R, Excel, SQL, and cleaning up my older courses in JS, React, etc.
 
 I love programming, creating, and my side gig is teaching police officers to pass their mathematics and language testing and interviews. I know HTML, CSS, Python, some Ruby, and some JS, PHP, and SQL. Working on projects to develop expertise at deeper levels in a Bootcamp.
 
