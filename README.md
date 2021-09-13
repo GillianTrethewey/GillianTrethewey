@@ -10,7 +10,7 @@ I love programming, creating, and my side gig is teaching police officers to pas
 
 I've been coding on the web since 2014.  This has included making membership e-commerce websites for clients, creating and maintaining my own teaching website at https://cognitiveresults.com, as well as working for another developer doing CBT along with retainer work with clients. 
 
-I'm levelling up my skills to include PHP, JS, React, Ruby, SQL, PHP, and Python. I have completed COMP200 at Athabasca University. I code consistently and I'm serious about learning the skills I need to land a full-time job doing development.
+I'm levelling up my skills to include PHP, JS, React, Ruby, SQL, PHP, and Python. I have completed COMP200 at Athabasca University. I code consistently and I'm serious about learning the skills required to land a full-time job doing development.
   
 <br>
 
