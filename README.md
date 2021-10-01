@@ -4,7 +4,7 @@
 
 ### Thanks for visiting! &nbsp; 
 
-I am a self-taught software engineer formally trained as a Civil engineer and teacher. I'm starting a Master's in Data Science in October with Eastern U. Concurrently, I'm doing Kickstart Coding Bootcamp to get more complex projects into my portfolio. To prepare for my Masters, I'm learning Python, and familiarlizing myself with: numpy, colab, mathplotlib, seaborn, and pandas. If there's time, then R, Excel, SQL, and cleaning up my older courses in JS, React, etc.
+I am a self-taught software engineer formally trained as a Civil engineer and teacher. I'm currently working on my Masters of Data Science with Eastern U. Concurrently, I'm doing Kickstart Coding Bootcamp to get more complex projects into my portfolio, both Frontend and Backend. If there's time, then R, Excel, SQL, and cleaning up my older courses in JS, React, etc.
 
 I love programming, creating, and my side gig is teaching police officers to pass their mathematics and language testing and interviews. I know HTML, CSS, Python, some Ruby, and some JS, PHP, and SQL. Working on projects to develop expertise at deeper levels in a Bootcamp.
 
@@ -15,10 +15,11 @@ I'm levelling up my skills to include PHP, JS, React, Ruby, SQL, PHP, and Python
 <br>
 
 **Snapshot:**
-- 😄 September course goals: JS, Responsive Websites, Python Kaggle, Python Skillcrush, Bootcamp pre-work (DONE)
+- 😄 October course goals: Kickstart Bootcamp Backend, start Data Science Masters course 1.
 - 😄 I code most days.
-- 👨🏻‍💻 I'm currently learning: PHP + JS + React + Python + Ruby + SQL 
-- 👨🏻‍💻 I'm proficient at HTML5, CSS3, Flexbox, Grid, SASS, yarn, gulp, node.js, WordPress, and Git version control. 
+- 👨🏻‍💻 I'm currently learning: PHP, JS, React, Ruby, SQL, numpy, colab,seaborn, and pandas.
+- 👨🏻‍💻 I'm proficient at HTML5, CSS3, Flexbox, Grid, WordPress, Git version control.
+- 👨🏻‍💻 I am familar with, and use: SASS, yarn, gulp, node.js, Python, Heroku, matplotlib.
 - 😄 I use Local, Fetch, and Sublime on a Mac with two monitors.
 - 🔭 I'm currently in the midst of Round 3 of 100 Days of Code.
 - 👨🏻‍💻 In the Round 3 repo, you can view the courses I've completed and what I'm specifically working on.
