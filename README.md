@@ -6,11 +6,11 @@
 
 I am a self-taught software engineer formally trained as a Civil engineer and teacher. I'm currently working on my Masters of Data Science with Eastern U. Concurrently, I'm doing Kickstart Coding Bootcamp to get more complex projects into my portfolio, both Frontend and Backend. If there's time, then R, Excel, SQL, and cleaning up my older courses in JS, React, etc.
 
-I love programming, creating, and my side gig is teaching police officers to pass their mathematics and language testing and interviews. I know HTML, CSS, Python, some Ruby, and some JS, PHP, and SQL. Working on projects to develop expertise at deeper levels in a Bootcamp.
+I love programming, creating, and my side gig is teaching police officers to pass their mathematics and language testing and interviews using a WordPress website with memberships, e-commerce, video courses, and practice tests (over 1100). https://cognitiveresults.com
 
-I've been coding on the web since 2014.  This has included making membership e-commerce websites for clients, creating and maintaining my own teaching website at https://cognitiveresults.com, as well as working for another developer doing CBT along with retainer work with clients. 
+I've been coding on the web since 2014.  I work for another developer doing CBT along with retainer work with clients. 
 
-I'm levelling up my skills to include PHP, JS, React, Ruby, SQL, PHP, and Python. I have completed COMP200 at Athabasca University. I code consistently and I'm serious about learning the skills required to land a full-time job doing development.
+I have completed COMP200 and the MATH requirements for computer science at Athabasca University. The math was review since my engineering degree covered that. I code consistently and I'm serious about learning the skills required to land a full-time job doing development.
   
 <br>
 
