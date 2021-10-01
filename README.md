@@ -33,6 +33,11 @@ I have completed COMP200 and the MATH requirements for computer science at Athab
 - - https://replit.com/@GillianTrethewe
 <br>
 
+**Heroku Apps**
+- 👨🏻‍💻 More course exercises:
+- - https://django-apis-gillian.herokuapp.com/
+
+<br>
 📈 **My GitHub Stats:**
 
 <p>
