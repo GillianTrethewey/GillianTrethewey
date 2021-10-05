@@ -28,15 +28,15 @@ I have completed COMP200 and the MATH requirements for computer science at Athab
 - :book: I'm currently reading: _I'm between books right now_
 - ⚡ Fun fact: I have two degrees - one in Civil Engineering and the second in Education. I programmed in Fortran way back.
 - 👨🏻‍💻 See also (for course exercises): 
-- - https://codesandbox.io/u/GillianTrethewey
-- - https://codepen.io/starbucksamore
-- - https://replit.com/@GillianTrethewe
+-- https://codesandbox.io/u/GillianTrethewey
+-- https://codepen.io/starbucksamore
+-- https://replit.com/@GillianTrethewe
 <br>
 
 **Heroku Apps**
 - 👨🏻‍💻 More course exercises:
-- https://django-apis-gillian.herokuapp.com/
-- https://gillian-trethewey-django-start.herokuapp.com/
+--https://django-apis-gillian.herokuapp.com/
+--https://gillian-trethewey-django-start.herokuapp.com/
 
 <br>
 📈 **My GitHub Stats:**
