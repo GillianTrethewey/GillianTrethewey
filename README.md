@@ -35,8 +35,8 @@ I have completed COMP200 and the MATH requirements for computer science at Athab
 
 **Heroku Apps**
 - 👨🏻‍💻 More course exercises:
-- - https://django-apis-gillian.herokuapp.com/
-- - https://gillian-trethewey-django-start.herokuapp.com/
+- https://django-apis-gillian.herokuapp.com/
+- https://gillian-trethewey-django-start.herokuapp.com/
 
 <br>
 📈 **My GitHub Stats:**
