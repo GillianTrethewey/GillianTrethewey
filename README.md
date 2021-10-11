@@ -4,13 +4,15 @@
 
 ### Thanks for visiting! &nbsp; 
 
-I am a self-taught software engineer formally trained as a Civil engineer and teacher. I'm currently working on my Masters of Data Science with Eastern U. Concurrently, I'm doing Kickstart Coding Bootcamp to get more complex projects into my portfolio, both Frontend and Backend. If there's time, then R, Excel, SQL, and cleaning up my older courses in JS, React, etc.
+I am a self-taught software engineer formally trained as a Civil engineer and teacher. I'm currently working on my Masters of Data Science with Eastern U. Concurrently, I'm doing Kickstart Coding Bootcamp to get more complex projects into my portfolio, both Frontend and Backend. 
 
 I love programming, creating, and my side gig is teaching police officers to pass their mathematics and language testing and interviews using a WordPress website with memberships, e-commerce, video courses, and practice tests (over 1100). https://cognitiveresults.com
 
 I've been coding on the web since 2014.  I work for another developer doing CBT along with retainer work with clients. 
 
 I have completed COMP200 and the MATH requirements for computer science at Athabasca University. The math was review since my engineering degree covered that. I code consistently and I'm serious about learning the skills required to land a full-time job doing development.
+
+I'm a loyal, steady, hard-worker with strong ethics. 
   
 <br>
 
@@ -19,7 +21,7 @@ I have completed COMP200 and the MATH requirements for computer science at Athab
 - 😄 I code most days.
 - 👨🏻‍💻 I'm currently learning: PHP, JS, React, Ruby, SQL, numpy, colab,seaborn, and pandas.
 - 👨🏻‍💻 I'm proficient at HTML5, CSS3, Flexbox, Grid, WordPress, Git version control.
-- 👨🏻‍💻 I am familar with, and use: SASS, yarn, gulp, node.js, Python, Heroku, matplotlib.
+- 👨🏻‍💻 I am familar with, and use: SASS, yarn, gulp, node.js, Python, Heroku, matplotlib, and Pygal.
 - 😄 I use Local, Fetch, and Sublime on a Mac with two monitors.
 - 🔭 I'm currently in the midst of Round 3 of 100 Days of Code.
 - 👨🏻‍💻 In the Round 3 repo, you can view the courses I've completed and what I'm specifically working on.
