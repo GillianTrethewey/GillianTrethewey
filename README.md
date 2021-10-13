@@ -13,7 +13,8 @@ I've been coding on the web since 2014.  I work for another developer doing CBT 
 I have completed COMP200 and the MATH requirements for computer science at Athabasca University. The math was review since my engineering degree covered that. I code consistently and I'm serious about learning the skills required to land a full-time job doing development.
 
 I'm a loyal, steady, hard-worker with strong ethics. 
-  
+
+Very proud of my Django app that combines a GitHub API along with Postgresql DB to render a Resources section. Deployed on Heroku at https://gillian-trethewey-django-db.herokuapp.com/
 <br>
 
 **Snapshot:**
@@ -37,6 +38,7 @@ I'm a loyal, steady, hard-worker with strong ethics.
 
 **Heroku Apps**
 - 👨🏻‍💻 More course exercises:
+- - https://gillian-trethewey-django-db.herokuapp.com/
 - - https://django-apis-gillian.herokuapp.com/
 - - https://gillian-trethewey-django-start.herokuapp.com/
 
