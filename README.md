@@ -25,8 +25,8 @@ Very proud of my Django app that combines a GitHub API along with Postgresql DB 
 - 👨🏻‍💻 I'm proficient at HTML5, CSS3, CSS Flexbox, CSS Grid, WordPress, Git version control.
 - 👨🏻‍💻 I am familar with, and use: SASS, yarn, gulp, node.js, Python, Heroku, Postgres, SQL, matplotlib, Jupyter, Google Colab, and Pygal.
 - 😄 I use Local, Fetch, and Sublime on a Mac with two monitors.
-- 🔭 I'm currently in the midst of Round 3 of 100 Days of Code.
-- 👨🏻‍💻 In the Round 3 repo, you can view the courses I've completed and what I'm specifically working on.
+- 🔭 I just started Round 4 of 100 Days of Code. That means I've logged 300 days of code ... I've coded more, but logged that.
+- 👨🏻‍💻 In the Round 4 repo, you can view the courses I've completed and what I'm specifically working on.
 - 📫 How to reach me: cognitiveresults@rogers.com
 - 😄 Pronouns: she/her
 - :book: I'm currently reading: _I'm between books right now_
