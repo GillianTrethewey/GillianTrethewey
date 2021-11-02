@@ -18,12 +18,11 @@ Very proud of my Django app that combines a GitHub API along with Postgresql DB 
 <br>
 
 **Snapshot:**
-- 😄 October course goals: Kickstart Bootcamp Backend (DONE), start Data Science Masters course 1(DONE).
-- 😄 NEW ADDITIONAL October course goals: Kickstart Bootcamp Frontend - partial, continue Data Science Masters course.
+- 😄 November course goals: Kickstart Bootcamp Frontend, continue Data Science Masters course.
 - 😄 I code most days.
-- 👨🏻‍💻 I'm currently learning: PHP, JS, React, Ruby, numpy,seaborn, and pandas.
+- 👨🏻‍💻 I'm currently learning: PHP, Ruby, seaborn, and pandas.
 - 👨🏻‍💻 I'm proficient at HTML5, CSS3, CSS Flexbox, CSS Grid, WordPress, Git version control.
-- 👨🏻‍💻 I am familar with, and use: SASS, yarn, gulp, node.js, Python, Heroku, Postgres, SQL, matplotlib, Jupyter, Google Colab, and Pygal.
+- 👨🏻‍💻 I am familar with, and use: Local, SASS, yarn, gulp, node.js, JS, ReactPython, Heroku, Postgres, SQL, matplotlib, Jupyter Notebooks, NumPy, Google Colab, and Pygal.
 - 😄 I use Local, Fetch, and Sublime on a Mac with two monitors.
 - 🔭 I just started Round 4 of 100 Days of Code. That means I've logged 300 days of code ... I've coded more, but logged that.
 - 👨🏻‍💻 In the Round 4 repo, you can view the courses I've completed and what I'm specifically working on.
