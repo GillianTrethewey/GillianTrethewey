@@ -26,7 +26,7 @@ Very proud of my Django app that combines a GitHub API along with Postgresql DB 
 - 😄 I use Local, Fetch, and Sublime on a Mac with two monitors.
 - 🔭 I just started Round 4 of 100 Days of Code. That means I've logged 300 days of code ... I've coded more, but logged that.
 - 👨🏻‍💻 In the Round 4 repo, you can view the courses I've completed and what I'm specifically working on.
-- 📫 How to reach me: cognitiveresults@rogers.com
+- 📫 How to reach me: https://www.linkedin.com/in/gillian-trethewey-930585216/
 - 😄 Pronouns: she/her
 - :book: I'm currently reading: _I'm between books right now_
 - ⚡ Fun fact: I have two degrees - one in Civil Engineering and the second in Education. I programmed in Fortran way back.
