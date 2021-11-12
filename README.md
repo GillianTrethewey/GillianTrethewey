@@ -23,7 +23,7 @@ Very proud of my Django app that combines a GitHub API along with Postgresql DB 
 - 👨🏻‍💻 I'm currently learning: PHP, Ruby, Seaborn.
 - 👨🏻‍💻 I'm proficient at HTML5, CSS3, CSS Flexbox, CSS Grid, WordPress, Git version control.
 - 👨🏻‍💻 I am familar with, and use: Local, SASS, yarn, gulp, node.js, JS, ReactPython, Heroku, Postgres, SQL, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.
-- 😄 I use Local, Fetch, and Sublime on a Mac with two monitors.
+- 😄 I use Local, Fetch, and Visual Studio on a Mac with two monitors.
 - 🔭 I just started Round 4 of 100 Days of Code. That means I've logged 300 days of code ... I've coded more, but logged that.
 - 👨🏻‍💻 In the Round 4 repo, you can view the courses I've completed and what I'm specifically working on.
 - 📫 How to reach me: https://www.linkedin.com/in/gillian-trethewey-930585216/
