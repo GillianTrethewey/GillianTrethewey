@@ -6,7 +6,7 @@
 
 I am a self-taught software engineer formally trained as a Civil engineer and teacher. I'm currently working on my Masters of Data Science with Eastern U. Concurrently, I'm doing Kickstart Coding Bootcamp to get more complex projects into my portfolio, both Frontend and Backend. 
 
-I love programming, creating, and my side gig is teaching police officers to pass their mathematics and language testing and interviews using a WordPress website with memberships, e-commerce, video courses, and practice tests (over 1100). https://cognitiveresults.com
+I love programming, creating, and I'm proficient at membership, e-commerce websites such as:  https://cognitiveresults.com
 
 I've been coding on the web since 2014.  I work for another developer doing CBT along with retainer work with clients. 
 
@@ -20,16 +20,16 @@ Very proud of my Django app that combines a GitHub API along with Postgresql DB 
 **Snapshot:**
 - 😄 November course goals: Kickstart Bootcamp Frontend, continue Data Science Masters course.
 - 😄 I code most days.
-- 👨🏻‍💻 I'm currently learning: PHP, Ruby, Seaborn.
+- 👨🏻‍💻 I'm currently learning: PHP, and Ruby.
 - 👨🏻‍💻 I'm proficient at HTML5, CSS3, CSS Flexbox, CSS Grid, WordPress, Git version control.
-- 👨🏻‍💻 I am familar with, and use: Local, SASS, yarn, gulp, node.js, JS, ReactPython, Heroku, Postgres, SQL, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.
-- 😄 I use Local, Fetch, and Visual Studio on a Mac with two monitors.
-- 🔭 I just started Round 4 of 100 Days of Code. That means I've logged 300 days of code ... I've coded more, but logged that.
+- 👨🏻‍💻 I am familar with, and use: Local, SASS, yarn, gulp, node.js, JS, ReactPython, Heroku, Postgres, SQL, Seaborn, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.
+- 😄 I use Local, Fetch, and Sublime on a Mac with two monitors.
+- 🔭 I'm in Round 4 of 100 Days of Code. That means I've logged 300 days of code ... I've coded more, but logged that.
 - 👨🏻‍💻 In the Round 4 repo, you can view the courses I've completed and what I'm specifically working on.
 - 📫 How to reach me: https://www.linkedin.com/in/gillian-trethewey-930585216/
 - 😄 Pronouns: she/her
 - :book: I'm currently reading: _I'm between books right now_
-- ⚡ Fun fact: I have two degrees - one in Civil Engineering and the second in Education. I programmed in Fortran way back.
+- ⚡ Fun fact: I have two degrees - one in Civil Engineering and the second in Math Education.
 - 👨🏻‍💻 See also (for course exercises): 
 - - https://codesandbox.io/u/GillianTrethewey
 - - https://codepen.io/starbucksamore
