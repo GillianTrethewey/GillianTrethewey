@@ -39,6 +39,7 @@ Very proud of my Django app that combines a GitHub API along with Postgresql DB 
 - - https://gillian-trethewey-django-db.herokuapp.com/
 - - https://django-apis-gillian.herokuapp.com/
 - - https://gillian-trethewey-django-start.herokuapp.com/
+- - https://heroku-currency-react.herokuapp.com/
 
 <br>
 📈 **My GitHub Stats:**
