@@ -16,7 +16,7 @@ Very proud of my Django app that combines a GitHub API along with Postgresql DB 
 <br>
 
 **Snapshot:**
-- 😄 December course goals: Kickstart Bootcamp Frontend, Skillcrush JS, Skillcrush React
+- 😄 December course goals: Kickstart Bootcamp Frontend, Skillcrush JS, Skillcrush React, Skillcrush Python
 - 😄 I code most days.
 - 👨🏻‍💻 I'm currently learning: PHP, and Ruby.
 - 👨🏻‍💻 My stack: HTML5, CSS3, CSS Flexbox, CSS Grid, WordPress, Git version control, Python, JavaScript, React.
