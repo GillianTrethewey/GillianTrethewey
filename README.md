@@ -11,8 +11,7 @@ I love programming, creating, and I'm proficient at membership, e-commerce websi
 I've been coding on the web since 2014.  I work for another developer doing CBT along with retainer work with clients. 
 
 I'm a loyal, steady, hard-worker with strong ethics. 
-
-Very proud of my Django app that combines a GitHub API along with Postgresql DB to render a Resources section. Deployed on Heroku at https://gillian-trethewey-django-db.herokuapp.com/
+See my Django app that combines a GitHub API along with Postgresql DB to render a Resources section. Deployed on Heroku at https://gillian-trethewey-django-db.herokuapp.com/
 <br>
 
 **Snapshot:**
