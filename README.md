@@ -36,7 +36,7 @@ See my Django app that combines a GitHub API along with Postgresql DB to render 
 **Heroku Apps**
 - 👨🏻‍💻 More course exercises:
 - - https://gillian-trethewey-django-db.herokuapp.com/
-- - https://django-apis-gillian.herokuapp.com/
+- - https://currency-react-components.herokuapp.com/
 - - https://gillian-trethewey-django-start.herokuapp.com/
 - - https://heroku-currency-react.herokuapp.com/
 
