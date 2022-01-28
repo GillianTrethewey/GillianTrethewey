@@ -17,7 +17,7 @@ See my Django app that combines a GitHub API along with Postgresql DB to render 
 **Snapshot:**
 - 😄 January course goals: Kickstart Bootcamp Frontend, algorithms in JS and Python
 - 😄 I code most days.
-- 👨🏻‍💻 I'm currently learning: PHP, and Ruby.
+- 👨🏻‍💻 I'm currently working on interview algorithms.
 - 👨🏻‍💻 My stack: HTML5, CSS3, CSS Flexbox, CSS Grid, WordPress, Git version control, Python, JavaScript, React.
 - 👨🏻‍💻 More of my stack: Local, SASS, yarn, gulp, node.js, Heroku, Postgres, SQL, Seaborn, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.
 - 😄 I use Local, Fetch, and Sublime on a Mac with two monitors.
