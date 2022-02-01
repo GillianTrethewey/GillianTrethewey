@@ -8,7 +8,7 @@ I am a self-taught software engineer formally trained as a Civil engineer and te
 
 I love programming, creating, and I'm proficient at membership, e-commerce websites such as:  https://cognitiveresults.com
 
-I've been coding on the web since 2014.  I work for another developer doing CBT along with retainer work with clients. 
+I've been coding on the web since 2012.  
 
 I'm a loyal, steady, hard-worker with strong ethics. 
 See my Django app that combines a GitHub API along with Postgresql DB to render a Resources section. Deployed on Heroku at https://gillian-trethewey-django-db.herokuapp.com/
