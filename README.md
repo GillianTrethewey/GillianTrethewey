@@ -27,10 +27,7 @@ See my Django app that combines a GitHub API along with Postgresql DB to render 
 - 😄 Pronouns: she/her
 - :book: I'm currently reading: _I'm between books right now_
 - ⚡ Fun fact: I have two degrees - one in Civil Engineering and the second in Mathematics Education.
-- 👨🏻‍💻 See also (for course exercises): 
-- - https://codesandbox.io/u/GillianTrethewey
-- - https://codepen.io/starbucksamore
-- - https://replit.com/@GillianTrethewe
+
 <br>
 
 **Heroku Apps**
