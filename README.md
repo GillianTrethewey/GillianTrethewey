@@ -18,9 +18,9 @@ See my Django app that combines a GitHub API along with Postgresql DB to render 
 - 😄 February course goals: Kickstart Coding Careers Section, algorithms in JS and Python, consolidating both languages.
 - 😄 I code most days.
 - 👨🏻‍💻 I'm currently working on interview algorithms.
-- 👨🏻‍💻 My stack: HTML5, CSS3, CSS Flexbox, CSS Grid, WordPress, Git version control, Python, JavaScript, React.
-- 👨🏻‍💻 More of my stack: Local, SASS, yarn, gulp, node.js, Heroku, Postgres, SQL, Seaborn, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.
-- 😄 I use Local, Fetch, and Sublime on a Mac with two monitors. Still figuring out the best IDE for myself.
+- 👨🏻‍💻 My stack: HTML5, CSS3, CSS Flexbox, CSS Grid, WordPress, Git version control, Python, JavaScript, React.js, Java, Django, Node.js.
+- 👨🏻‍💻 More of my stack: Local, SASS, yarn, gulp, Heroku, Postgres, SQL, Seaborn, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.
+- 😄 I use Local, Fetch, and WebStorm on a Mac with two monitors. 
 - 🔭 I'm in Round 4 of 100 Days of Code. That means I've logged 300 days of code ... I've coded more, but logged that.
 - 👨🏻‍💻 In the Round 4 repo, you can view the courses I've completed and what I'm specifically working on.
 - 📫 https://www.linkedin.com/in/gillian-trethewey-930585216/
