@@ -15,7 +15,7 @@ See my Django app that combines a GitHub API along with Postgresql DB to render 
 <br>
 
 **Snapshot:**
-- 😄 February course goals: Kickstart Coding Careers Section, algorithms in JS and Python, consolidating both languages.
+- 😄 February course goals: Kickstart Coding Careers Section (DONE), algorithms in JS and Python, consolidating both languages.
 - 😄 I code most days.
 - 👨🏻‍💻 I'm currently working on interview algorithms.
 - 👨🏻‍💻 My stack: HTML5, CSS3, CSS Flexbox, CSS Grid, WordPress, Git version control, Python, JavaScript, React.js, Java, Django, Node.js.
