@@ -14,9 +14,9 @@ I'm a loyal, steady, hard-worker with strong ethics.
 <br>
 
 **Snapshot:**
-- 😄 February course goals: Kickstart Coding Careers Section (DONE), algorithms in JS and Python, consolidating both languages.
+- 😄 March course goals: React apps, algorithms in JavaScript, Master's in Data Science Statistics course until the end of April.
 - 😄 I code most days.
-- 👨🏻‍💻 I'm currently working on interview algorithms.
+- 👨🏻‍💻 I'm currently working on proficiency in React.
 - 👨🏻‍💻 My stack: HTML5, CSS3, CSS Flexbox, CSS Grid, WordPress, Git version control, Python, JavaScript, React.js, Java, Django, Node.js.
 - 👨🏻‍💻 More of my stack: Local, SASS, yarn, gulp, Heroku, Postgres, SQL, Seaborn, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.
 - 😄 I use Local, Fetch, and WebStorm on a Mac with two monitors. 
@@ -24,7 +24,6 @@ I'm a loyal, steady, hard-worker with strong ethics.
 - 👨🏻‍💻 In the Round 4 repo, you can view the courses I've completed.
 - 📫 https://www.linkedin.com/in/gillian-trethewey-930585216/
 - 😄 Pronouns: she/her
-- :book: I'm currently reading: _I'm between books right now_
 - ⚡ Fun fact: I have two degrees - one in Civil Engineering and the second in Mathematics Education.
 
 <br>
