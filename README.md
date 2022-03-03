@@ -4,7 +4,7 @@
 
 ### Thanks for visiting! &nbsp; 
 
-I am a self-taught software engineer formally trained as a Civil engineer and teacher. I'm currently working on my Masters of Data Science with Eastern U. Concurrently, I'm currently a Kickstart Coding Apprentice working on getting more complex projects into my portfolio, both Frontend and Backend. 
+I am a self-taught software engineer formally trained as a Civil engineer and mathematics specialist teacher. I'm currently working on my Masters of Data Science with Eastern U. Concurrently, I'm currently a Kickstart Coding Apprentice working on getting more complex projects into my portfolio, both Frontend and Backend. 
 
 I love programming, creating, and I'm proficient at membership, e-commerce websites such as:  https://cognitiveresults.com
 
