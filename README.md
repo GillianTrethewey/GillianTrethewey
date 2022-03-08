@@ -14,7 +14,7 @@ I'm a loyal, steady, hard-worker with strong ethics.
 <br>
 
 **Snapshot:**
-- 😄 Started fresh with GitHub repos. I had most days full of green squares over the last two years.
+- 😄 March 8, 2022 Totally reorganized GitHub Repositories and started fresh. Sadly wiped out my green squares though. I'll live.
 - 😄 March course goals: React apps, algorithms in JavaScript, Master's in Data Science Statistics course until the end of April, clean up repos!
 - 😄 I code most days.
 - 👨🏻‍💻 I'm currently working on proficiency in React.
