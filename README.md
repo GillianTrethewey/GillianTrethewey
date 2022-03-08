@@ -14,7 +14,7 @@ I'm a loyal, steady, hard-worker with strong ethics.
 <br>
 
 **Snapshot:**
-- 😄 March course goals: React apps, algorithms in JavaScript, Master's in Data Science Statistics course until the end of April.
+- 😄 March course goals: React apps, algorithms in JavaScript, Master's in Data Science Statistics course until the end of April, clean up repos!
 - 😄 I code most days.
 - 👨🏻‍💻 I'm currently working on proficiency in React.
 - 👨🏻‍💻 My stack: HTML5, CSS3, CSS Flexbox, CSS Grid, WordPress, Git version control, Python, JavaScript, React.js, Java, Django, Node.js.
