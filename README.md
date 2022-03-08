@@ -1,6 +1,6 @@
 ### Hi there, I'm Gillian Trethewey</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
+https://gilliantrethewey.github.io/Gillian-Trethewey-Portfolio/
 
 ### Thanks for visiting! &nbsp; 
 
