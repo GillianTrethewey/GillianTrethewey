@@ -17,7 +17,7 @@ I'm a loyal, steady, hard-worker with strong ethics.
 **Snapshot:**
 - 😄 March 8, 2022 Totally reorganized GitHub Repositories and started fresh. Sadly wiped out my green squares though. I'll live.
 - 😄 March course goals: React apps, algorithms in JavaScript, Master's in Data Science Statistics course until the end of April, clean up repos!
-- 😄 I code most days.
+- 😄 I code most days and push to GitHub often, but because I've grouped my files, the green squares don't show up. :) :) 
 - 👨🏻‍💻 My stack: HTML5, CSS3, CSS Flexbox, CSS Grid, WordPress, Git version control, Python, JavaScript, React.js, Java, Django, Node.js.
 - 👨🏻‍💻 More of my stack: Local, SASS, yarn, gulp, Heroku, Postgres, SQL, Seaborn, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.
 - 😄 I use Local, Fetch, and WebStorm on a Mac with two monitors. 
