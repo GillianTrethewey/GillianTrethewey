@@ -5,7 +5,7 @@ https://gilliantrethewey.github.io/Gillian-Trethewey-Portfolio/
 
 ### Thanks for visiting! &nbsp; 
 
-I am a self-taught software engineer formally trained as a Civil engineer and mathematics specialist teacher. I'm currently working on my Masters of Data Science with Eastern U. Concurrently, I'm currently a Kickstart Coding Apprentice working on getting more complex projects into my portfolio, both Frontend and Backend. 
+I am a self-taught software engineer formally trained as a Civil engineer and mathematics specialist teacher. I'm currently working on my Masters of Data Science with Eastern U. Concurrently, I'm a Kickstart Coding Apprentice working on getting more complex projects into my portfolio, both Frontend and Backend. 
 
 I love programming, creating, and I'm proficient at membership, e-commerce websites such as:  https://cognitiveresults.com
 
@@ -15,14 +15,14 @@ I'm a loyal, steady, hard-worker with strong ethics.
 <br>
 
 **Snapshot:**
-- 😄 March 8, 2022 Totally reorganized GitHub Repositories and started fresh. Sadly wiped out my green squares though. I'll live.
-- 😄 March course goals: React apps, algorithms in JavaScript, Master's in Data Science Statistics course until the end of April, clean up repos!
-- 😄 I code most days and push to GitHub often, but because I've grouped my files, the green squares don't show up. :) :) 
+- 😄 March 8, 2022 Totally reorganized GitHub Repositories and started fresh.
+- 😄 April course goals: React apps, algorithms in JavaScript, Master's in Data Science Statistics course until the end of April.
+- 😄 I code most days!
 - 👨🏻‍💻 My stack: HTML5, CSS3, CSS Flexbox, CSS Grid, WordPress, Git version control, Python, JavaScript, React.js, Java, Django, Node.js.
 - 👨🏻‍💻 More of my stack: Local, SASS, yarn, gulp, Heroku, Postgres, SQL, Seaborn, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.
 - 😄 I use Local, Fetch, and WebStorm on a Mac with two monitors. 
 - 🔭 I've finished 400 Days of Code (100 Days of Code times 4). That means I've logged 400 days of code ... I've coded more, but logged that.
-- 👨🏻‍💻 In the Round 4 repo, you can view the courses I've completed.
+- 👨🏻‍💻 I used the Day of Code projects to log my progress and courses completed. There is no substitute for daily coding.
 - 📫 https://www.linkedin.com/in/gillian-trethewey-930585216/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have two degrees - one in Civil Engineering and the second in Mathematics Education.
