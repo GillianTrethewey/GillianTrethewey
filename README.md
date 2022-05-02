@@ -16,7 +16,7 @@ I'm a loyal, steady, hard-worker with strong ethics.
 
 **Snapshot:**
 - 😄 March 8, 2022 Totally reorganized GitHub Repositories and started fresh.
-- 😄 April course goals: React apps, algorithms in JavaScript, Master's in Data Science Statistics course until the end of April.
+- 😄 May course goals: React apps, algorithms in JavaScript
 - 😄 I code most days!
 - 👨🏻‍💻 My stack: HTML5, CSS3, CSS Flexbox, CSS Grid, WordPress, Git version control, Python, JavaScript, React.js, Java, Django, Node.js.
 - 👨🏻‍💻 More of my stack: Local, SASS, yarn, gulp, Heroku, Postgres, SQL, Seaborn, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.
