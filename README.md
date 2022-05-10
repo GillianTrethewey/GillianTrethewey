@@ -5,7 +5,7 @@ https://gilliantrethewey.github.io/Gillian-Trethewey-Portfolio/
 
 ### Thanks for visiting! &nbsp; 
 
-I am a self-taught software engineer formally trained as a Civil engineer and mathematics specialist teacher. I'm currently working part-time on my Masters of Data Science with Eastern U. Also, working on getting more complex projects into my portfolio, both Frontend and Backend. 
+I am a software engineer with university education and job experience as a Civil engineer and a mathematics specialist teacher. I'm currently working part-time on my Masters of Data Science with Eastern U. Also, working on getting more complex projects into my portfolio, both Frontend and Backend. 
 
 I love programming, creating, and I'm proficient at membership, e-commerce websites such as:  https://cognitiveresults.com
 
