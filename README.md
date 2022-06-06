@@ -1,4 +1,4 @@
-### Hi there, I'm Gillian Trethewey</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Gillian Trethewey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 #### I cleaned out my GitHub March 8, 2022 and started fresh! ####
 
 https://gilliantrethewey.github.io/Gillian-Trethewey-Portfolio/
