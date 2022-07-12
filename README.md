@@ -12,7 +12,7 @@ I love programming, creating, and I'm proficient at membership, e-commerce websi
 I've been coding on the web since 2012.  
 
 I'm a loyal, steady, hard-worker with strong ethics. 
-<br>
+<br/>
 
 **Snapshot:**
 - 😄 March 8, 2022 Totally reorganized GitHub Repositories and started fresh.
@@ -27,7 +27,7 @@ I'm a loyal, steady, hard-worker with strong ethics.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have two degrees - one in Civil Engineering and the second in Mathematics Education.
 
-<br>
+<br/>
 
 **Heroku Apps**
 - 👨🏻‍💻 More course exercises:
@@ -36,9 +36,8 @@ I'm a loyal, steady, hard-worker with strong ethics.
 - - https://gillian-trethewey-django-start.herokuapp.com/
 - - https://heroku-currency-react.herokuapp.com/
 
-<br>
-**My GitHub Stats**
-
+<br/>
+#### My GitHub Stats ####
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GillianTrethewey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GillianTrethewey&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
