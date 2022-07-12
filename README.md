@@ -37,7 +37,8 @@ I'm a loyal, steady, hard-worker with strong ethics.
 - - https://heroku-currency-react.herokuapp.com/
 
 <br>
-📈 **My GitHub Stats:**
+📈 
+**My GitHub Stats:**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GillianTrethewey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
