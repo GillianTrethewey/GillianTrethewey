@@ -16,11 +16,11 @@ I'm a loyal, steady, hard-worker with strong ethics.
 
 **Snapshot:**
 - 😄 March 8, 2022 Totally reorganized GitHub Repositories and started fresh.
-- 😄 June course goals: React apps, algorithms in JavaScript, deep dive into React and JSX to fully understand state, components, and props, React Native and Expo, and finally Go(lang).
+- 😄 September goals: React apps using state, hooks, function components, React Native and Expo, and Go(lang).
 - 😄 I code most days!
-- 👨🏻‍💻 My stack: HTML5, CSS3, CSS Flexbox, CSS Grid, WordPress, Git version control, Python, JavaScript, React.js, Java, Django, Node.js.
+- 👨🏻‍💻 My stack: HTML5, CSS3, CSS Flexbox, CSS Grid, WordPress, Git version control, Python, JavaScript, React.js, Django, Node.js.
 - 👨🏻‍💻 More of my stack: Local, SASS, yarn, gulp, Heroku, Postgres, SQL, Seaborn, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.
-- 😄 I use Local, Fetch, and WebStorm on a Mac with two monitors. 
+- 😄 I use Local, Fetch, and Visual Studio on a Mac with two monitors. 
 - 🔭 I've finished 400 Days of Code (100 Days of Code times 4). That means I've logged 400 days of code ... I've coded more, but logged that.
 - 👨🏻‍💻 I used the Day of Code projects to log my progress and courses completed. There is no substitute for daily coding.
 - 📫 https://www.linkedin.com/in/gillian-trethewey-930585216/
