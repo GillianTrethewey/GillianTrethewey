@@ -11,7 +11,7 @@ I love programming, creating, and I'm proficient at membership, e-commerce websi
 
 I've been coding on the web since 2012.  
 
-I'm a loyal, steady, hard-worker with strong ethics. 
+I'm a loyal, steady, hard-worker and am really nice to get along with! I've been told many times I'm a good communicator. 
 <br/>
 
 **Snapshot:**
