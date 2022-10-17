@@ -16,7 +16,7 @@ I'm a loyal, steady, hard-worker and am really nice to get along with! I've been
 
 **Snapshot:**
 - 😄 March 8, 2022 Totally reorganized GitHub Repositories and started fresh.
-- 😄 September goals: React apps using state, hooks, function components, React Native and Expo, and Go(lang).
+- 😄 October goals: React Native and Expo, TypeScript, and Go(lang).
 - 😄 I code most days!
 - 👨🏻‍💻 My stack: HTML5, CSS3, CSS Flexbox, CSS Grid, WordPress, Git version control, Python, JavaScript, React.js, Django, Node.js.
 - 👨🏻‍💻 More of my stack: Local, SASS, yarn, gulp, Heroku, Postgres, SQL, Seaborn, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.
