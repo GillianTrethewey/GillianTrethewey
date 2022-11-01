@@ -7,7 +7,7 @@ https://gilliantrethewey.github.io/Gillian-Trethewey-Portfolio/
 
 I am a software engineer with university education and job experience as a Civil engineer and a mathematics specialist teacher. I'm working on getting more complex projects into my portfolio, both Frontend and Backend. My goal is to be hired full-time, remote, for React or Expo/Go development. I have dual citizenship with both Canada and the UK.
 
-I love programming, creating, and I'm proficient at membership, e-commerce websites such as:  https://cognitiveresults.com
+I love programming, creating, and I'm proficient at membership, e-commerce websites such as:  https://cognitiveresults.com - but that's not my focus - instead it's doing React/Expo/Go!
 
 I've been coding on the web since 2012.  
 
