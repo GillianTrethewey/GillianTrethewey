@@ -16,9 +16,9 @@ I'm a loyal, steady, hard-worker and am really nice to get along with! I've been
 
 **Snapshot:**
 - 😄 March 8, 2022 Totally reorganized GitHub Repositories and started fresh.
-- 😄 October goals: React Native and Expo, TypeScript, and Go(lang).
+- 😄 November goals: continue with React Native and Expo, TypeScript, and Go(lang).
 - 😄 I code most days!
-- 👨🏻‍💻 My stack: HTML5, CSS3, CSS Flexbox, CSS Grid, WordPress, Git version control, Python, JavaScript, React.js, Django, Node.js.
+- 👨🏻‍💻 My stack: HTML5, CSS3, Flexbox and Grid, WordPress, Git, Python, JavaScript, React.js, Django, Node.js, React-Native, Expo, Golang, TypeScript.
 - 👨🏻‍💻 More of my stack: Local, SASS, yarn, gulp, Heroku, Postgres, SQL, Seaborn, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.
 - 😄 I use Local, Fetch, and Visual Studio on a Mac with two monitors. 
 - 🔭 I've finished 400 Days of Code (100 Days of Code times 4). That means I've logged 400 days of code ... I've coded more, but logged that.
