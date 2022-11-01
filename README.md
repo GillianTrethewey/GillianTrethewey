@@ -1,5 +1,5 @@
 ### Hi there, I'm Gillian Trethewey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#### I cleaned out my GitHub March 8, 2022 and started fresh! I push most days, but because I have nested repos (for organization), the green 'garden' looks more sparse than it is. ####
+#### I cleaned out my GitHub March 8, 2022 and started fresh! I push most days, but because I have nested repos (for organization), the GitHub 'garden' looks more sparse than it is. ####
 
 https://gilliantrethewey.github.io/Gillian-Trethewey-Portfolio/
 
