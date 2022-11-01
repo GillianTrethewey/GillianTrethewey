@@ -11,7 +11,7 @@ I love programming, creating, and I'm proficient at membership, e-commerce websi
 
 I've been coding on the web since 2012.  
 
-I'm a loyal, steady, hard-worker and am really nice to get along with! I've been told many times I'm a good communicator. 
+I'm a loyal, steady, hard-worker and am really nice to get along with! I value good communication.
 <br/>
 
 **Snapshot:**
@@ -31,6 +31,7 @@ I'm a loyal, steady, hard-worker and am really nice to get along with! I've been
 
 **Heroku Apps**
 - 👨🏻‍💻 More course exercises:
+- I have to find a new host now that heroku has changed it's free tier structure - it's on the to do list :)
 - - https://gillian-trethewey-django-db.herokuapp.com/
 - - https://currency-react-components.herokuapp.com/
 - - https://gillian-trethewey-django-start.herokuapp.com/
