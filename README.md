@@ -34,8 +34,8 @@ I'm a loyal, steady, hard-worker and am really nice to get along with! I value g
 - I have to find a new host now that heroku has changed it's free tier structure - it's on the to do list :)
 - - https://gillian-trethewey-django-db.herokuapp.com/
 - - https://currency-react-components.herokuapp.com/
-- - https://gillian-trethewey-django-start.herokuapp.com/
-- - https://heroku-currency-react.herokuapp.com/
+
+
 
 <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GillianTrethewey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
