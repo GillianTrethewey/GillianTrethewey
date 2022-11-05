@@ -29,7 +29,7 @@ I'm a loyal, steady, hard-worker and am really nice to get along with! I value g
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GillianTrethewey"/>
 
 
 
