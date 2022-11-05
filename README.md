@@ -13,7 +13,7 @@ I've been coding on the web since 2012.
 
 I'm a loyal, steady, hard-worker and am really nice to get along with! I value good communication.
 <br/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GillianTrethewey"/>
 **Snapshot:**
 - 😄 March 8, 2022 Totally reorganized GitHub Repositories and started fresh.
 - 😄 November goals: continue with React Native and Expo, TypeScript, and Go(lang).
@@ -28,8 +28,6 @@ I'm a loyal, steady, hard-worker and am really nice to get along with! I value g
 - ⚡ Fun fact: I have two degrees - one in Civil Engineering and the second in Mathematics Education.
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GillianTrethewey"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GillianTrethewey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GillianTrethewey&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
