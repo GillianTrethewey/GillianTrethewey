@@ -31,9 +31,6 @@ I'm a loyal, steady, hard-worker and am really nice to get along with! I value g
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GillianTrethewey"/>
 
-
-
-<br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GillianTrethewey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GillianTrethewey&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
 
