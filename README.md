@@ -14,6 +14,7 @@ I've been coding on the web since 2012.
 I'm a loyal, steady, hard-worker and am really nice to get along with! I value good communication.
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GillianTrethewey"/>
+<br/>
 **Snapshot:**
 - 😄 March 8, 2022 Totally reorganized GitHub Repositories and started fresh.
 - 😄 November goals: continue with React Native and Expo, TypeScript, and Go(lang).
