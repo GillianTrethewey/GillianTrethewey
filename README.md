@@ -29,11 +29,7 @@ I'm a loyal, steady, hard-worker and am really nice to get along with! I value g
 
 <br/>
 
-**Heroku Apps**
-- 👨🏻‍💻 More course exercises:
-- I have to find a new host now that heroku has changed it's free tier structure - it's on the to do list :)
-- - https://gillian-trethewey-django-db.herokuapp.com/
-- - https://currency-react-components.herokuapp.com/
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
 
 
 
