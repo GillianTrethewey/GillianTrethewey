@@ -1,19 +1,11 @@
 ### Hi there, I'm Gillian Trethewey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#### I cleaned out my GitHub March 8, 2022 and started fresh! I push most days, but because I have nested repos (for organization), the GitHub 'garden' looks more sparse than it is. ####
 
 https://gilliantrethewey.github.io/Gillian-Trethewey-Portfolio/
 
 ### Thanks for visiting! &nbsp; 
 
-I am a software engineer with university education and job experience as a Civil engineer and a mathematics specialist teacher. I'm working on getting more complex projects into my portfolio, both Frontend and Backend. My goal is to be hired full-time, remote, for React or Expo/Go development. I have dual citizenship with both Canada and the UK.
+I am a software engineer with university education and job experience as a Civil engineer and a mathematics specialist teacher. I have dual citizenship with both Canada and the UK.I love programming, creating, and I'm proficient at membership, e-commerce websites such as:  https://cognitiveresults.com - but that's not my focus - instead it's doing React/Expo/Go! I've been coding on the web since 2012.  
 
-I love programming, creating, and I'm proficient at membership, e-commerce websites such as:  https://cognitiveresults.com - but that's not my focus - instead it's doing React/Expo/Go!
-
-I've been coding on the web since 2012.  
-
-I'm a loyal, steady, hard-worker and am really nice to get along with! I value good communication.
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GillianTrethewey"/>
 <br/>
 **Snapshot:**
 - 😄 March 8, 2022 Totally reorganized GitHub Repositories and started fresh.
