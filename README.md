@@ -7,6 +7,10 @@ https://gilliantrethewey.github.io/Gillian-Trethewey-Portfolio/
 I am a software engineer with university education and job experience as a Civil engineer and a mathematics specialist teacher. I have dual citizenship with both Canada and the UK.I love programming, creating, and I'm proficient at membership, e-commerce websites such as:  https://cognitiveresults.com - but that's not my focus - instead it's doing React/Expo/Go! I've been coding on the web since 2012.  
 
 <br/>
+
+![Snake animation](https://github.com/GillianTrethewey/GillianTrethewey/blob/output/github-contribution-grid-snake.svg)
+
+<br/>
 ** Snapshot: **
 - 😄 March 8, 2022 Totally reorganized GitHub Repositories and started fresh.
 - 😄 November goals: continue with React Native and Expo, TypeScript, and Go(lang).
@@ -25,5 +29,3 @@ I am a software engineer with university education and job experience as a Civil
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GillianTrethewey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GillianTrethewey&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
-
-![Snake animation](https://github.com/GillianTrethewey/GillianTrethewey/blob/output/github-contribution-grid-snake.svg)
