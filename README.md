@@ -35,4 +35,4 @@ I'm a loyal, steady, hard-worker and am really nice to get along with! I value g
 
 ![GitHub Snake Light](./assets/github-snake-light.svg#gh-light-mode-only)
 ![GitHub Snake Dark](./assets/github-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://github.com/{{GillianTrethewey}}/{{GillianTrethewey}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GillianTrethewey/GillianTrethewey/blob/output/github-contribution-grid-snake.svg)
