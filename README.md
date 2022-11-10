@@ -26,3 +26,4 @@ I am a software engineer with university education and job experience as a Civil
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GillianTrethewey&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 
+![Snake animation](https://github.com/GillianTrethewey/GillianTrethewey/blob/output/github-contribution-grid-snake.svg)
