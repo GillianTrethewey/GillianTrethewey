@@ -11,8 +11,9 @@ I am a software engineer with university education and job experience as a Civil
 
 **Snapshot:**
 <ul>
-  <li>😄 March 8, 2022 Totally reorganized GitHub Repositories and started fresh.</li>
+  
   <li>😄 December goals: continue with React Native and Expo, TypeScript, and Go(lang). Deeper dive into JavaScript - lots of algorithms. React interview preparation mini-projects, Data Structures, and of course ... ADVENT OF CODE! </li>
+  <li>😄 March 8, 2022 Totally reorganized GitHub Repositories and started fresh.</li>
 <li>😄 I code most days!</li>
 <li>👨🏻‍💻 My stack: HTML5, CSS3, Flexbox and Grid, WordPress, Git, Python, JavaScript, React.js, TypeScript, Django, Node.js, React-Native, Expo, Golang.</li>
 <li>👨🏻‍💻 More of my stack: Local, SASS, yarn, gulp, Heroku, Postgres, SQL, Seaborn, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.</li>
