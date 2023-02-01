@@ -12,18 +12,18 @@ I am a software engineer with university education and job experience as a Civil
 **Snapshot:**
 <ul>
   
-  <li>😄 January goals: continue with React Native and Expo, TypeScript, and Go(lang). Deeper dive into JavaScript - lots of algorithms. React interview preparation mini-projects, Data Structures, and Chingu Agile Team Project work. </li>
+  <li>😄 February goals: continue with React Native and Expo, TypeScript, and Go(lang). Deeper dive into JavaScript - lots of algorithms. React interview preparation mini-projects, Data Structures, and Chingu Agile Team Project work. </li>
   <li>😄 March 8, 2022 Totally reorganized GitHub Repositories and started fresh.</li>
-<li>😄 I code most days!</li>
-<li>👨🏻‍💻 My stack: HTML5, CSS3, Flexbox and Grid, WordPress, Git, GitHub, Python, JavaScript, React.js, TypeScript, Django, Node.js, React-Native, Expo, Golang.</li>
-<li>👨🏻‍💻 More of my stack: Local, SASS, yarn, gulp, Heroku, Postgres, SQL, Seaborn, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.</li>
-<li>😄 I use Local, Fetch, and Visual Studio on a Mac with two monitors. </li>
-<li>🔭 I've finished 400 Days of Code (100 Days of Code times 4). That means I've logged 400 days of code ... I've coded more, but logged that.</li>
-<li>👨🏻‍💻 I used the Day of Code projects to log my progress and courses completed. There is no substitute for daily coding.</li>
-<li>📫 https://www.linkedin.com/in/gillian-trethewey-930585216/</li>
-<li>😄 Pronouns: she/her</li>
-<li>⚡ Fun fact: I have two degrees - one in Civil Engineering and the second in Mathematics Education.</li>
-  </ul>
+  <li>😄 I code most days!</li>
+  <li>👨🏻‍💻 My stack: Agile team development, HTML5, CSS3, Flexbox and Grid, WordPress, Git, GitHub, Python, JavaScript, React.js, TypeScript, Django, Node.js, React-Native, Expo, Golang.</li>
+  <li>👨🏻‍💻 More of my stack: Local, SASS, yarn, gulp, Heroku, Postgres, SQL, Seaborn, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.</li>
+  <li>😄 I use Local, Fetch, and Visual Studio on a Mac with two monitors. </li>
+  <li>🔭 I've finished 400 Days of Code (100 Days of Code times 4). That means I've logged 400 days of code ... I've coded more, but logged that.</li>
+  <li>👨🏻‍💻 I used the Day of Code projects to log my progress and courses completed. There is no substitute for daily coding.</li>
+  <li>📫 https://www.linkedin.com/in/gillian-trethewey-930585216/</li>
+  <li>😄 Pronouns: she/her</li>
+  <li>⚡ Fun fact: I have two degrees - one in Civil Engineering and the second in Mathematics Education.</li>
+</ul>
 
 <br/>
 <h3 align="left">Languages and Tools:</h3>
