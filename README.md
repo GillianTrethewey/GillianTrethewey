@@ -12,8 +12,7 @@ I am a software engineer with university education and job experience as a Civil
 **Snapshot:**
 <ul>
   
-  <li>😄 February goals: continue with React Native and Expo, TypeScript, and Go(lang). CS50 self-paced online course. Deeper dive into JavaScript - lots of algorithms. React interview preparation mini-projects, Data Structures, and Chingu Agile Team Project work. </li>
-  <li>😄 March 8, 2022 Totally reorganized GitHub Repositories and started fresh. This means my progress from my early years has disappeared. </li>
+  <li>😄 March goals: Algorithms, Data Structures, CS50, MIT Algorithms courses (continued), more React </li>
   <li>😄 I code most days!</li>
   <li>👨🏻‍💻 My stack: Agile team development, HTML5, CSS3, Flexbox and Grid, WordPress, Git, GitHub, Python, JavaScript, React.js, TypeScript, Django, Node.js, React-Native, Expo, Golang.</li>
   <li>👨🏻‍💻 More of my stack: Local, SASS, yarn, gulp, Heroku, Postgres, SQL, Seaborn, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.</li>
@@ -23,6 +22,7 @@ I am a software engineer with university education and job experience as a Civil
   <li>📫 https://www.linkedin.com/in/gillian-trethewey-930585216/</li>
   <li>😄 Pronouns: she/her</li>
   <li>⚡ Fun fact: I have two degrees - one in Civil Engineering and the second in Mathematics Education.</li>
+  <li>😄 March 8, 2022 Totally reorganized GitHub Repositories and started fresh. This means my progress from my early years has disappeared. </li>
 </ul>
 
 <br/>
