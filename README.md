@@ -4,7 +4,7 @@ https://gilliantrethewey.github.io/Gillian-Trethewey-Portfolio/
 
 ### Thanks for visiting! &nbsp; 
 
-I am a software engineer with university education and job experience as a Civil engineer and a mathematics specialist teacher. I have dual citizenship with both Canada and the UK.I love programming, creating, and I'm proficient at membership, e-commerce websites such as:  https://cognitiveresults.com - but that's not my focus - instead it's doing React/Expo/Go! I've been coding on the web since 2012.  
+I am a software engineer with university education and job experience as a Civil engineer and a mathematics specialist teacher. I have dual citizenship with both Canada and the UK.I love programming, creating, and I'm proficient at membership, e-commerce websites such as:  https://cognitiveresults.com - but that's not my focus - instead it's full-stack engineering! I've been coding on the web since 2012.  
 
 ![Snake animation](https://github.com/GillianTrethewey/GillianTrethewey/blob/output/github-contribution-grid-snake.svg)
 
@@ -12,7 +12,7 @@ I am a software engineer with university education and job experience as a Civil
 **Snapshot:**
 <ul>
   
-  <li>😄 March goals: Algorithms, Data Structures, CS50, MIT Algorithms courses (continued), more React </li>
+  <li>😄 March goals: Algorithms, Data Structures, CS50, MIT Algorithms courses (continued), more React, NEW Ruby! </li>
   <li>😄 I code most days!</li>
   <li>👨🏻‍💻 My stack: Agile team development, HTML5, CSS3, Flexbox and Grid, WordPress, Git, GitHub, Python, JavaScript, React.js, TypeScript, Django, Node.js, React-Native, Expo, Golang.</li>
   <li>👨🏻‍💻 More of my stack: Local, SASS, yarn, gulp, Heroku, Postgres, SQL, Seaborn, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.</li>
