@@ -12,13 +12,13 @@ I am a software engineer with university education and job experience as a Civil
 **Snapshot:**
 <ul>
   
-  <li>😄 March goals: Algorithms, Data Structures, CS50, MIT Algorithms courses (continued), more React, NEW Ruby! </li>
+  <li>😄 Learning these in MARCH 2023: Algorithms, Data Structures, memoization, closure, recursion, CS50 course, MIT Algorithms course, more React, NEW Ruby! </li>
   <li>😄 I code most days!</li>
   <li>👨🏻‍💻 My stack: Agile team development, HTML5, CSS3, Flexbox and Grid, WordPress, Git, GitHub, Python, JavaScript, React.js, TypeScript, Django, Node.js, React-Native, Expo, Golang, Ruby</li>
   <li>👨🏻‍💻 More of my stack: Local, SASS, yarn, gulp, Heroku, Postgres, SQL, Seaborn, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.</li>
   <li>😄 I use Local, Fetch, and Visual Studio on a Mac with two monitors. </li>
-  <li>🔭 I've finished 400 Days of Code (100 Days of Code times 4). That means I've logged 400 days of code ... I've coded more, but logged that.</li>
-  <li>👨🏻‍💻 I used the Day of Code projects to log my progress and courses completed. There is no substitute for daily coding.</li>
+  <li>🔭 I've finished 400 Days of Code and I'm on my fifth round.</li>
+  <li>👨🏻‍💻 I used the Days of Code projects to log my progress and courses completed. There is no substitute for daily coding.</li>
   <li>📫 https://www.linkedin.com/in/gillian-trethewey-930585216/</li>
   <li>😄 Pronouns: she/her</li>
   <li>⚡ Fun fact: I have two degrees - one in Civil Engineering and the second in Mathematics Education.</li>
