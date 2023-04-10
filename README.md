@@ -12,7 +12,7 @@ I am a software engineer with university education and job experience as a Civil
 **Snapshot:**
 <ul>
   
-  <li>😄 Learning these in MARCH 2023: Algorithms, Data Structures, memoization, closure, recursion, CS50 course, MIT Algorithms course, more React, NEW Ruby! </li>
+  <li>😄 Learning these in APRIL 2023: Algorithms, Data Structures, memoization, closure, recursion, CS50 course, MIT Algorithms course, React, and moving over to more projects. Finished my third Master's in Data Science course (Python) with Eastern University but not loving the statistics. </li>
   <li>😄 I code most days!</li>
   <li>👨🏻‍💻 My stack: Agile team development, HTML5, CSS3, Flexbox and Grid, WordPress, Git, GitHub, Python, JavaScript, React.js, TypeScript, Django, Node.js, React-Native, Expo, Golang, Ruby</li>
   <li>👨🏻‍💻 More of my stack: Local, SASS, yarn, gulp, Heroku, Postgres, SQL, Seaborn, matplotlib, Jupyter Notebooks, NumPy, Google Colab, Pandas, and Pygal.</li>
