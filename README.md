@@ -26,8 +26,7 @@ I am a software engineer with university education and job experience as a Civil
 
 <br/>
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=html, css, js, ts, go, ruby, php, python, django, py, r, react, jest, nextjs, nodejs, mongodb, mysql, postgres, tailwind, vercel, wordpress, github, firebase, &perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html, css, js, ts, go, ruby, php, python, django, py, r, react, jest, nextjs, nodejs, mongodb, mysql, postgres, tailwind, vercel, wordpress, github, firebase, &perline=6)](https://skillicons.dev)
 
-
-
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)
 
