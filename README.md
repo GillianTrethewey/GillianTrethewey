@@ -11,7 +11,7 @@ I am a software developer with university education and job experience as a Civi
 <ul>
   <li>😄 Working on getting hired by a company willing to invest in a dedicated, loyal programmer. Excellent communicator and highly productive.</li>
   <li>😄 NOV 2023: BrainStation Bootcamp starts December 5th for 4 months.</li>
-  <li>😄 I code most days!</li>
+  <li>😄 I code most days! Moved across Canada to Victoria, British Columbia to stay this summer.</li>
   <li>👨🏻‍💻 General: Agile team development, Git, GitHub, some Go, some Ruby, Python, JavaScript (ES6), some Java</li>
   <li>👨🏻‍💻 Fullstack & Backend stack: Heroku, Postgres, Node.js, Next.js</li>
   <li>😄 Data stack: Python, SQL, Seaborn, matplotlib, Jupyter Notebooks, R, NumPy, Google Colab, Pandas, and Pygal.</li>
