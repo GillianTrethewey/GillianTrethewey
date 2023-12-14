@@ -27,5 +27,5 @@ I am a software developer with university education and job experience as a Civi
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 
-[![SkillIcons](https://skillicons.dev/icons?i=java,js,ts,py,go,ruby,html,css,r,django,react,jest,nodejs,tailwind,firebase,nextjs,vercel,mongodb,express,mysql,wordpress,php,figma,git,github)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=java,js,ts,py,go,ruby,html,css,sass,r,django,react,jest,nodejs,tailwind,firebase,nextjs,vercel,mongodb,express,mysql,wordpress,php,figma,git,github)](https://skillicons.dev)
 
