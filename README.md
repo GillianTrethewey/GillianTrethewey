@@ -22,6 +22,7 @@ I am a software developer with university education and job experience as a Civi
   <li>😄 Pronouns: she/her</li>
   <li>⚡ Fun fact: I have two degrees - one in Civil Engineering and the second in Mathematics Education.</li>
   <li>😄 Cleaned out my GitHub in 2022 and started again. </li>
+  <li><a href="https://gilliantrethewey.github.io/Gillian-Trethewey-Portfolio/">My Portfolio</a></li>
 </ul>
 
 <br/>
