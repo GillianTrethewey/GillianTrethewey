@@ -16,7 +16,7 @@ I am a software developer with university education and job experience as a Civi
   <li>👨🏻‍💻 Fullstack & Backend stack: Heroku, Postgres, Node.js, Next.js</li>
   <li>😄 Data stack: Python, SQL, Seaborn, matplotlib, Jupyter Notebooks, R, NumPy, Google Colab, Pandas, and Pygal.</li>
   <li>😄 Web dev stack: HTML5, CSS3, JavaScript, Local, SASS, WordPress, React.js, some React-Native, some Expo, TypeScript, Django</li>
-  <li>🔭 I've finished 500 Days of Code and I'm on my sixth round.</li>
+  <li>🔭 I've finished 600 Days of Code and I'm on my seventh round.</li>
   <li>👨🏻‍💻 I used the Days of Code projects to log my progress and courses completed. There is no substitute for daily coding.</li>
   <li>📫 <a href="https://www.linkedin.com/in/gillian-trethewey-930585216/">My LinkedIn</a></li>
   <li>😄 Pronouns: she/her</li>
