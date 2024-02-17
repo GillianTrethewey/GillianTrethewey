@@ -4,8 +4,7 @@ https://gilliantrethewey.github.io/Gillian-Trethewey-Portfolio/
 
 ### Thanks for visiting! &nbsp; 
 
-I am a software developer with university education and job experience as a Civil engineer and a mathematics specialist teacher. I have dual citizenship with both Canada and the UK. I love programming, creating, and I'm proficient at membership, e-commerce websites such as:  https://cognitiveresults.com - but that's not my focus - instead it's full-stack development! I've been coding on the web since 2012. Currently a Diploma Candidate in Fullstack Software Development with BrainStation.  
-
+I am a software developer with university education and job experience as a Civil engineer and a mathematics specialist teacher. I have dual citizenship with both Canada and the UK. I love programming, creating, and I'm proficient at membership, e-commerce websites such as:  https://cognitiveresults.com - but that's not my focus - instead it's full-stack development! I've been coding on the web since 2012. 
 
 **Snapshot:**
 <ul>
