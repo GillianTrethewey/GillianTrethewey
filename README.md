@@ -12,9 +12,9 @@ I am a software developer with university education and job experience as a Civi
   <li>😄 Productive, organized, passionate coder.</li>
   <li>😄 I code most days! Moved across Canada to Victoria, British Columbia to stay this summer.</li>
   <li>👨🏻‍💻 General: Agile team development, Git, GitHub, some Go, some Ruby, Python, JavaScript (ES6), some Java</li>
-  <li>👨🏻‍💻 Fullstack & Backend stack: Heroku, Postgres, Node.js, Next.js</li>
+  <li>👨🏻‍💻 Fullstack & Backend stack: Heroku, Postgres, Node.js, Next.js, MongoDB</li>
   <li>😄 Data stack: Python, SQL, Seaborn, matplotlib, Jupyter Notebooks, R, NumPy, Google Colab, Pandas, and Pygal.</li>
-  <li>😄 Web dev stack: HTML5, CSS3, JavaScript, Local, SASS, WordPress, React.js, some React-Native, some Expo, TypeScript, Django</li>
+  <li>😄 Web dev stack: HTML5, CSS3, JavaScript, Local, SASS, WordPress, React.js, TypeScript, Django</li>
   <li>🔭 I've finished 600 Days of Code and I'm on my seventh round.</li>
   <li>👨🏻‍💻 I used the Days of Code projects to log my progress and courses completed. There is no substitute for daily coding.</li>
   <li>📫 <a href="https://www.linkedin.com/in/gillian-trethewey-930585216/">My LinkedIn</a></li>
