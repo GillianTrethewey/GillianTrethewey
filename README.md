@@ -9,9 +9,9 @@ I am a software developer with university education and job experience as a Civi
 **Snapshot:**
 <ul>
   <li>😄 Productive, organized, passionate coder.</li>
-  <li>😄 I code most days! Moved across Canada to Victoria, British Columbia to stay this summer.</li>
-  <li>👨🏻‍💻 General: Agile team development, Git, GitHub, some Go, some Ruby, Python, JavaScript (ES6), some Java</li>
-  <li>👨🏻‍💻 Fullstack & Backend stack: Heroku, Postgres, Node.js, Next.js, MongoDB</li>
+  <li>😄 I code most days! Permanently moved across Canada from Ontario to British Columbia this summer.</li>
+  <li>👨🏻‍💻 General: Agile team development, Java, Git, GitHub, Python, JavaScript (ES6), working on Ruby, Rails</li>
+  <li>👨🏻‍💻 Fullstack & Backend stack: Heroku, Postgres, Node.js, Next.js, MongoDB, NestJS</li>
   <li>😄 Data stack: Python, SQL, Seaborn, matplotlib, Jupyter Notebooks, R, NumPy, Google Colab, Pandas, and Pygal.</li>
   <li>😄 Web dev stack: HTML5, CSS3, JavaScript, Local, SASS, WordPress, React.js, TypeScript, Django</li>
   <li>🔭 I've finished 600 Days of Code and I'm on my seventh round.</li>
